@@ -2,6 +2,8 @@
 
 Welcome to **HanzCraft**, an interactive web application inspired by Minecraft's crafting system, designed to make learning Chinese characters a fun and creative experience. Discover and learn Chinese characters by combining their fundamental building blocks, known as radicals.
 
+*> This project was built with the assistance of the AI coding agent in [Firebase Studio](https://firebase.google.com/studio).*
+
 ## Core Features
 
 -   **Radical Catalogue**: Browse a user-friendly catalogue of radicals, the building blocks of Chinese characters. Simply drag and drop them to start crafting.
